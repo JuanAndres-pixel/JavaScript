@@ -7,6 +7,6 @@ function imprimir(){
     impresion += document.getElementById("course").value + "\n"
     
     alert(impresion)
-    alert(""Hola"" + ""a"" + ""todos"")
+    alert("Hola" + "a" + "todos")
 }
 console.log("Fucionando")
